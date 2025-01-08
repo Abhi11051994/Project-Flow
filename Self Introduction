@@ -1,7 +1,7 @@
 My name is Abhilash, and I have 5.3 years of experience in data engineering. 
 I have worked on end-to-end data engineering projects, starting from data collection to preparing data for data scientists and analysts.
 My responsibilities include connecting to multiple data sources, extracting data, and cleaning it using Databricks and PySpark.
-After performing all the required transformations based on business logic, I load the data into destination systems.
+After performing all the required transformations based on business logic, I load the data into destination systems i.e Azure Data Factory and ADLS Blob Storage.
 I have strong expertise in Python, PySpark, SQL, Databricks, and Azure Data Factory.
 Additionally, I have a solid foundation in Jira and GitHub for project management. 
 Currently, I am working as an individual contributor and have also been part of multiple collaborative teams.
